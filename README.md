@@ -4,11 +4,7 @@
   
 </div>
 
-👨‍💻 Atualmente trabalho na [Montcalm](https://montcalm.com.br/)
-
-🌱 Estou aprendendo Desenvolvimento de Sistemas Web
-
-📚 Sou estudante de **Análise e Desenvolvimento de Sistemas**
+👨‍💻 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Nove de Julho (Uni9)
 
 
 ----
